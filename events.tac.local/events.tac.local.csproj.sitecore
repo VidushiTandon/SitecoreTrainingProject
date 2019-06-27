@@ -1,0 +1,35 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="www.events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{D177CC51-E228-49EC-8257-E21FF4E5B3E9}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{D177CC51-E228-49EC-8257-E21FF4E5B3E9}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{910F4E01-F4BB-466F-B3A7-88541AA375BB}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{910F4E01-F4BB-466F-B3A7-88541AA375BB}</Item>
+  </File>
+  <File Include="Views\TAC\Events\HomeContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{71156D7F-B4C3-4B41-AB14-1C5D36F56236}</Item>
+  </File>
+  <File Include="Views\TAC\Events\SideContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{6836FEAE-261B-4E5A-90D5-97B85F140218}</Item>
+  </File>
+  <File Include="Views\TAC\Events\PageContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E9A6A14C-9313-4717-A4A1-7E50CDAA651B}</Item>
+  </File>
+  <File Include="Views\TAC\Events\One-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{AC4E49A0-066E-4262-AA20-35483A6582A7}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Two-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5C1C9AC3-37B4-49D1-90FC-1F5E84AD4EC8}</Item>
+  </File>
+  <File Include="Views\RelatedEvents\Index.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5F48582E-F8D8-406A-B7CC-CFF76EECFE4A}</Item>
+  </File>
+</Project>
